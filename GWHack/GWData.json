@@ -1,0 +1,86 @@
+{   
+    "Location":[
+       {
+         "name": "North Avenue Dining",
+         "lat": 33.77119,
+         "lng": -84.39049,
+         "family restroom": "yes",
+         "ADA entrance": "yes",
+         "reserved parking":  "yes",
+         "dining": "yes"
+       },
+       {
+        "name": "West Village",
+        "lat": 33.77963,
+        "lng": -84.40357,
+        "family restroom": "yes",
+        "ADA entrance": "yes",
+        "reserved parking":  "yes",
+        "dining": "yes"
+        },
+       {
+        "name": "Exhibition Hall",
+        "lat": 33.77498,
+        "lng": -84.40084,
+        "family restroom": "yes",
+        "ADA entrance": "yes",
+        "reserved parking":  "yes",
+        "dining": "yes"
+        },
+       {
+        "name": "Bobby Dodd Stadium",
+        "lat": 33.77290,
+        "lng": -84.39106,
+        "family restroom": "yes",
+        "ADA entrance": "yes",
+        "reserved parking":  "yes",
+        "dining": "no"
+        },
+       {
+        "name": "Howey",
+        "lat": 33.77764,
+        "lng": -84.39719,
+        "family restroom": "yes",
+        "ADA entrance": "yes",
+        "reserved parking":  "yes",
+        "dining": "no"
+        },
+       {
+        "name": "Klaus",
+        "lat": 33.77719,
+        "lng": -84.39475,
+        "family restroom": "yes",
+        "ADA entrance": "yes",
+        "reserved parking":  "yes",
+        "dining": "no"
+        },
+        {
+        "name": "CULC",
+        "lat": 33.77511,
+        "lng": -84.39519,
+        "family restroom": "yes",
+        "ADA entrance": "yes",
+        "reserved parking":  "yes",
+        "dining": "no"
+        },
+        {
+        "name": "Towers Residence Hall",
+        "lat": 33.77382,
+        "lng": -84.38963,
+        "family restroom": "yes",
+        "ADA entrance": "yes",
+        "reserved parking":  "yes",
+        "dining": "no"
+        },
+        {
+        "name": "Flag Building",
+        "lat": 33.77459,
+        "lng": -84.39927,
+        "family restroom": "yes",
+        "ADA entrance": "yes",
+        "reserved parking":  "yes",
+        "dining": "no" 
+        }   
+    ]
+  }  
+  
